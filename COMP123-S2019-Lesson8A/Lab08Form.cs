@@ -41,5 +41,10 @@ namespace COMP123_S2019_Lesson8A
         {
 
         }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }
